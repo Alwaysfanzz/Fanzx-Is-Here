@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Felice Lonely</h1>
+<h1 align="center">Hi, I'm Fanzx-Thunder🐉</h1>
 <h3 align="center">Front End Developer | Bot Developer</h3>
 
 <br><br>
